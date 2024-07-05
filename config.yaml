@@ -12,7 +12,7 @@ arch:
 init: false
 
 # homepage of the add-on
-url: docker.1panel.live//matt8707/addon-ha-fusion
+url: docker.awsl9527.cn/matt8707/addon-ha-fusion
 
 # icon for the menu panel integration
 panel_icon: mdi:atom
